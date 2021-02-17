@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AfsaneHeydari
-- 👀 I’m interested in Machin Learing, Neural Networks, and Big Data
+- 👀 I’m interested in Machine Learing, Neural Networks, and Big Data
 - 📫 You can reach me via this email address: afsaneh98.heydari@gmail.com
 
 <!---
